@@ -17,7 +17,7 @@ public class SegmentsVO {
     }
 
     public String getImageUrl() {
-        return imageUrl;
+       return imageUrl;
     }
 
     public int getSegmentId() {
